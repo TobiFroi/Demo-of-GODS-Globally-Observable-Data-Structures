@@ -1,7 +1,7 @@
 # Demo of GODS (Globally Observable Data Structures)
 
 ## Overview
-GODS (Globally Observable Data Structures) allows you to easily manage and respond to changes in your game's data without the need for complex object references or tightly coupled code by leveraging globally accessible observable variables, lists, hash sets and events.
+GODS (Globally Observable Data Structures) allows you to easily manage and respond to changes in your Unity game's data without the need for complex object references or tightly coupled code by leveraging globally accessible observable variables, lists, hash sets and events.
 Save and load your data easily through the GODS SaveSlot system.
 
 ## Key Features
@@ -42,7 +42,7 @@ This demo version of GODS includes features from **GODS: Globally Observable Dat
 - **GODS Binders**: Lerp functionality in GODS Binders is disabled in this version.
 - **Icons**: Default ScriptableObject icons are used for SaveSlots, Variables, Lists, and other elements.
 
-For full functionality, please consider purchasing the full version.
+For full functionality, please consider purchasing the full version. Get it here: [GODS]([https://assetstore.unity.com/packages/slug/294571])
 
 ## License
 This demo is licensed under a custom license that allows for personal, non-commercial use only. See [LICENSE.txt](./LICENSE.txt) for full details.
