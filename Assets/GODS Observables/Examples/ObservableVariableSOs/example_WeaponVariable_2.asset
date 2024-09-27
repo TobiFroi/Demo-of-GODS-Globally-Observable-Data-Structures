@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e1c35c077df954ab0af839ca84b83f, type: 3}
+  m_Name: example_WeaponVariable_2
+  m_EditorClassIdentifier: 
+  isPinned: 0
+  selectedTags: []
+  favorite: 0
+  descriptionText: Set by UI Buttons
+  usages:
+  - scenePath: Assets/GODS Observables/Examples/Scenes/RV_Example04_CustomScriptableObjectVariable.unity
+    objectPath: Canvas/Button_setVariable (1)
+    componentName: Button
+    fieldName: m_ObjectArgument
+  - scenePath: Assets/GODS Observables/Examples/Scenes/RV_Example04_CustomScriptableObjectVariable.unity
+    objectPath: Canvas/Button_setVariable (1)
+    componentName: Button
+    fieldName: m_ObjectArgument
+  - scenePath: Assets/GODS Observables/Examples/Scenes/RV_Example04_CustomScriptableObjectVariable.unity
+    objectPath: Canvas/Button_setVariable (1)
+    componentName: Button
+    fieldName: m_ObjectArgument
+  - scenePath: Assets/GODS Observables/Examples/Scenes/RV_Example04_CustomScriptableObjectVariable.unity
+    objectPath: Canvas/Button_setVariable (1)
+    componentName: Button
+    fieldName: m_ObjectArgument
+  - scenePath: Assets/GODS Observables/Examples/Scenes/RV_Example04_CustomScriptableObjectVariable.unity
+    objectPath: Canvas/WeaponDisplay (2)
+    componentName: RV_WeaponUIDisplay
+    fieldName: variable
+  - scenePath: Assets/GODS Observables/Examples/Scenes/RV_Example04_CustomScriptableObjectVariable.unity
+    objectPath: RV_Player 2/WeaponSpriteDisplay
+    componentName: RV_WeaponSpriteDisplay
+    fieldName: variable
+  lastModifiedDateString: 2024-07-26T14:36:33.0548135+02:00
+  changeCounter: -416208224
+  disableValueFieldOnReferences: 0
+  defaultValue: {fileID: 11400000, guid: de44b2df9d961994eb904fb7cfb351d0, type: 2}
+  currentValue: {fileID: 11400000, guid: de44b2df9d961994eb904fb7cfb351d0, type: 2}
+  defaultAlsoInvokeOnEqualValue: 0
+  alsoInvokeOnEqualValue: 0
+  onValueChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  listeners: []

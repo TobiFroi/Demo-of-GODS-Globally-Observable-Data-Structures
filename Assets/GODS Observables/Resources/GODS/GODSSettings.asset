@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1934739481, guid: a663d44f13c8ac94e9e4331539d8031d, type: 3}
+  m_Name: GODSSettings
+  m_EditorClassIdentifier: 
+  loadTagsFromFile: 1
+  tags:
+  - Player
+  - UI
+  - Gameplay
+  - Effects
+  resetDataTags:
+  - OnEnable
+  - OnSceneLoaded
+  - OnSceneLoadedAdditive
+  - OnSceneUnloaded
+  inspectorLabelWidth: 120
+  valueFieldWidth: 100
+  fillDebugListenerListOnVariables: 0
+  loggingEnabled: 0
+  ouputMainFolder: GODS Custom Types/
+  outputFilePathEvents: Scripts/Runtime/Observable Events/Game Events/
+  outputFilePathEventListeners: Scripts/Runtime/Observable Events/Listeners/
+  outputFilePathVariables: Scripts/Runtime/Observable Variables/Variables/
+  outputFilePathVariableReferences: Scripts/Runtime/Observable Variables/Referenced
+    Variables/
+  outputFilePathVariablePropertyDrawers: Scripts/Editor/Referenced Variable Property
+    Drawers/
+  outputFilePathLists: Scripts/Runtime/Observable Lists/Lists/
+  outputFilePathListReferences: Scripts/Runtime/Observable Lists/Referenced Lists/
+  outputFilePathListPropertyDrawers: Scripts/Editor/Referenced List Property Drawers/
+  outputFilePathHashSets: Scripts/Runtime/Observable Sets/Sets/
+  outputFilePathHashSetReferences: Scripts/Runtime/Observable Sets/Referenced Sets/
+  outputFilePathHashSetPropertyDrawers: Scripts/Editor/Referenced HashSet Property
+    Drawers/
+  outputFilePathScriptableObjects: Sample Objects/
+  createVariables: 1
+  createLists: 1
+  createHashSets: 1
+  createGameEvents: 1

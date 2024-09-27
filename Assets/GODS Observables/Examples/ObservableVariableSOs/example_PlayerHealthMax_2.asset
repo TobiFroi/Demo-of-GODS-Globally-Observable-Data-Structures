@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1592203780, guid: a663d44f13c8ac94e9e4331539d8031d, type: 3}
+  m_Name: example_PlayerHealthMax_2
+  m_EditorClassIdentifier: 
+  isPinned: 0
+  favorite: 0
+  disableValueFieldOnReferences: 0
+  selectedTags: []
+  selectedResetDataTags:
+  - OnEnable
+  descriptionText: 
+  usages: []
+  onSaveLoadedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  lastModifiedDateString: 2024-09-26T18:04:31.8879491+02:00
+  changeCounter: -1964920615
+  defaultValue: 10000
+  currentValue: 0
+  defaultAlsoInvokeOnEqualValue: 1
+  currentAlsoInvokeOnEqualValue: 1
+  onValueChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  listeners: []

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1310947513, guid: a663d44f13c8ac94e9e4331539d8031d, type: 3}
+  m_Name: example_ColorSecondaryPlayer_2
+  m_EditorClassIdentifier: 
+  isPinned: 0
+  favorite: 0
+  disableValueFieldOnReferences: 0
+  selectedTags: []
+  selectedResetDataTags:
+  - OnEnable
+  descriptionText: 
+  usages: []
+  onSaveLoadedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  lastModifiedDateString: 2024-09-26T17:44:21.0291356+02:00
+  changeCounter: 1
+  defaultValue: {r: 0.011764707, g: 0.1254902, b: 0.2509804, a: 1}
+  currentValue: {r: 0, g: 0, b: 0, a: 0}
+  defaultAlsoInvokeOnEqualValue: 1
+  currentAlsoInvokeOnEqualValue: 1
+  onValueChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  listeners: []
