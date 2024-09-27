@@ -42,11 +42,11 @@ This demo version of GODS includes features from **GODS: Globally Observable Dat
 - **GODS Binders**: Lerp functionality in GODS Binders is disabled in this version.
 - **Icons**: Default ScriptableObject icons are used for SaveSlots, Variables, Lists, and other elements.
 
-For full functionality, please consider purchasing the full version. Get it here: [GODS]([https://assetstore.unity.com/packages/slug/294571])
+For full functionality, please consider purchasing the full version. Get it here: [GODS](https://assetstore.unity.com/packages/slug/294571)
 
 ## License
-This demo is licensed under a custom license that allows for personal, non-commercial use only. See [LICENSE.txt](./LICENSE.txt) for full details.
+This demo is licensed under a custom license that allows for personal, non-commercial use only. See [LICENSE.txt](https://github.com/TobiFroi/Demo-of-GODS-Globally-Observable-Data-Structures/blob/main/License.txt) for full details.
 
 ## Support
-If you encounter any issues while using the demo or have any questions, please feel free to [open an issue]([https://github.com/your-repository/issues](https://github.com/Demo-of-GODS-Globally-Observable-Data-Structures/issues)) or contact me at [tobias.froihofer@gmx.at](mailto:tobias.froihofer@gmx.at).
+If you encounter any issues while using the demo or have any questions, please feel free to [open an issue](https://github.com/Demo-of-GODS-Globally-Observable-Data-Structures/issues) or contact me at [tobias.froihofer@gmx.at](mailto:tobias.froihofer@gmx.at).
 
