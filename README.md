@@ -40,6 +40,7 @@ This demo version of GODS includes features from **GODS: Globally Observable Dat
 - **Limited Reset Data Tags**: Reset Data Tags are limited to: `OnEnable`, `OnSceneLoaded`, `OnSceneLoadedAdditive`, and `OnSceneUnloaded` only.
 - **SaveSlots**: SaveSlot features are limited to 10 data entries, with no encryption or screenshots available.
 - **GODS Binders**: Lerp functionality in GODS Binders is disabled in this version.
+- **Quality of Life**: Missing some QoL features like automatic variable naming
 - **Icons**: Default ScriptableObject icons are used for SaveSlots, Variables, Lists, and other elements.
 
 For full functionality, please consider purchasing the full version. Get it here: [GODS](https://assetstore.unity.com/packages/slug/294571)
