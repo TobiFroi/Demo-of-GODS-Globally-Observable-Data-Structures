@@ -19,6 +19,7 @@ Save and load your data easily through the GODS SaveSlot system.
 1. Clone or download this repository.
 2. Open the project in Unity (version 2021.3.33f1 or later is recommended).
 3. After loading the project, follow the demo scene instructions to start exploring the functionality of GODS.
+4. If you want to try adding GODS functionality to an existing project, just copy the GODS folder under Plugins/GODS into your project
 
 > **Note**: Ensure you have the required Unity Editor version to avoid compatibility issues.
 
